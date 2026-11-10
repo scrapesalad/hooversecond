@@ -1,0 +1,216 @@
+{
+  "generated": "2026-11-10",
+  "baseUrl": "https://hooverfencing.com",
+  "geographicCoverage": {
+    "primaryMarket": "Hoover, Alabama",
+    "publishedServiceArea": [
+      "Hoover, Alabama"
+    ]
+  },
+  "routes": [
+    {
+      "route": "/",
+      "title": "Fence Company in Hoover, AL | Hoover Fence Company",
+      "description": "Explore fencing options and installation services from Hoover Fence Company in Hoover, Alabama. Find a fence style for your home or property and request project information.",
+      "h1": "Fencing for Hoover homes and properties",
+      "template": "home",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/"
+    },
+    {
+      "route": "/about/",
+      "title": "About Hoover Fence Company | Hoover, AL",
+      "description": "Learn about Hoover Fence Company and its fencing and outdoor living services in Hoover, Alabama.",
+      "h1": "About Hoover Fence Company",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/about/"
+    },
+    {
+      "route": "/services/",
+      "title": "Fence Installation & Repair in Hoover, AL | Hoover Fence Company",
+      "description": "Review fence installation and repair, materials, styles, decks, pergolas, and arbors offered by Hoover Fence Company in Hoover, Alabama.",
+      "h1": "Fence installation and repair in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/services/"
+    },
+    {
+      "route": "/wood-privacy-fencing/",
+      "title": "Wood Privacy Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Explore wood privacy fence options for properties in Hoover, Alabama. Compare a traditional solid fence with other styles from Hoover Fence Company.",
+      "h1": "Wood privacy fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/wood-privacy-fencing/"
+    },
+    {
+      "route": "/chainlink-fencing/",
+      "title": "Chain Link Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Learn about chain link fencing for residential and commercial properties in Hoover, AL. Explore a practical, open fence option from Hoover Fence Company.",
+      "h1": "Chain link fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/chainlink-fencing/"
+    },
+    {
+      "route": "/fence-repair/",
+      "title": "Fence Repair in Hoover, AL | Hoover Fence Company",
+      "description": "Hoover Fence Company provides fence installation and repair in the Hoover area. Contact the team to discuss repair needs for your fence.",
+      "h1": "Fence repair in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/fence-repair/"
+    },
+    {
+      "route": "/vinyl-fencing/",
+      "title": "Vinyl Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Explore vinyl fencing options in Hoover, Alabama, including privacy and picket styles from Hoover Fence Company.",
+      "h1": "Vinyl fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/vinyl-fencing/"
+    },
+    {
+      "route": "/gates/",
+      "title": "Fence Gates in Hoover, AL | Hoover Fence Company",
+      "description": "Discuss fence gate styles, access points, and automatic opener options with Hoover Fence Company in Hoover, Alabama.",
+      "h1": "Fence gates in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/gates/"
+    },
+    {
+      "route": "/ornamental-steel-fencing/",
+      "title": "Ornamental Steel Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Explore ornamental steel fencing in Hoover, Alabama, for a defined boundary with an open, decorative appearance.",
+      "h1": "Ornamental steel fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/ornamental-steel-fencing/"
+    },
+    {
+      "route": "/trex-composite-fencing/",
+      "title": "Composite Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Explore Trex composite fencing from Hoover Fence Company in Hoover, AL, and compare it with other fence materials.",
+      "h1": "Trex composite fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/trex-composite-fencing/"
+    },
+    {
+      "route": "/shadow-box-fencing/",
+      "title": "Shadowbox Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Learn about shadowbox fence style and explore wood privacy options from Hoover Fence Company in Hoover, Alabama.",
+      "h1": "Shadowbox fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/shadow-box-fencing/"
+    },
+    {
+      "route": "/spaced-picket-fencing/",
+      "title": "Spaced Picket Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Explore spaced picket fencing in Hoover, Alabama, for an open boundary with a traditional fence profile.",
+      "h1": "Spaced picket fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/spaced-picket-fencing/"
+    },
+    {
+      "route": "/cap-and-trim-fencing/",
+      "title": "Cap and Trim Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Explore cap-and-trim fencing in Hoover, AL, and compare this finished wood fence style with other options.",
+      "h1": "Cap and trim fencing in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/cap-and-trim-fencing/"
+    },
+    {
+      "route": "/privacy/",
+      "title": "Privacy Fencing in Hoover, AL | Hoover Fence Company",
+      "description": "Compare privacy fence styles in Hoover, Alabama, including wood privacy, shadowbox, and composite options.",
+      "h1": "Privacy fencing options in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/privacy/"
+    },
+    {
+      "route": "/decks/",
+      "title": "Decks in Hoover, AL | Hoover Fence Company",
+      "description": "Explore deck services from Hoover Fence Company in Hoover, Alabama. Discuss your outdoor living project and site requirements.",
+      "h1": "Decks in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/decks/"
+    },
+    {
+      "route": "/pergolas/",
+      "title": "Pergolas in Hoover, AL | Hoover Fence Company",
+      "description": "Explore pergolas from Hoover Fence Company in Hoover, Alabama, and discuss an outdoor structure for your property.",
+      "h1": "Pergolas in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/pergolas/"
+    },
+    {
+      "route": "/arbors/",
+      "title": "Arbors in Hoover, AL | Hoover Fence Company",
+      "description": "Explore arbor options from Hoover Fence Company in Hoover, Alabama, and discuss an outdoor feature for your property.",
+      "h1": "Arbors in Hoover, AL",
+      "template": "interior",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/arbors/"
+    },
+    {
+      "route": "/contact/",
+      "title": "Contact Hoover Fence Company | Hoover, AL",
+      "description": "Contact Hoover Fence Company in Hoover, Alabama, to discuss fencing and outdoor living project options.",
+      "h1": "Talk with Hoover Fence Company",
+      "template": "contact",
+      "geographicFocus": "Hoover, Alabama",
+      "canonical": "https://hooverfencing.com/contact/"
+    }
+  ],
+  "serviceCards": [
+    {
+      "name": "Wood Privacy Fencing",
+      "url": "/wood-privacy-fencing/"
+    },
+    {
+      "name": "Chain Link Fencing",
+      "url": "/chainlink-fencing/"
+    },
+    {
+      "name": "Vinyl Fencing",
+      "url": "/vinyl-fencing/"
+    },
+    {
+      "name": "Ornamental Steel",
+      "url": "/ornamental-steel-fencing/"
+    },
+    {
+      "name": "Composite Fencing",
+      "url": "/trex-composite-fencing/"
+    },
+    {
+      "name": "Fence Repair",
+      "url": "/fence-repair/"
+    },
+    {
+      "name": "Gates",
+      "url": "/gates/"
+    },
+    {
+      "name": "Decks",
+      "url": "/decks/"
+    },
+    {
+      "name": "Pergolas",
+      "url": "/pergolas/"
+    },
+    {
+      "name": "Arbors",
+      "url": "/arbors/"
+    }
+  ]
+}
